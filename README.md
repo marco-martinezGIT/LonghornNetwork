@@ -256,11 +256,11 @@ Test your graph implementation before using it in algorithms:
 
 ### Step 5: Implement Core Components DUE DATE FOR EVERYTHING BELOW: April 27th, 2026 11:59pm
 
-#### SWING UI
+#### REACT UI
 
-##### An implementation of an user interface using Swing UI. An easy implementation would be to visualize the student graph as either an adjacency list or adjacency matrix, as well as visualizing the roommates,   formations.
+##### An implementation of an user interface using REACT UI. An easy implementation would be to visualize the student graph as either an adjacency list or adjacency matrix, as well as visualizing the roommates,   formations.
 
-**Video Script for 2-4 minute video to be turned in on Apr 30th, 2024 11:59pm**
+**Video Script for 2-4 minute video to be turned in on Apr 27th, 2026 11:59pm**
    - Loading data from Main.java. Use the given main.java to load data. This can be displayed by simply showing the different test cases being loaded once the UI loads up. [20 points]
    - Visualize the data as a graph. Display a graph that shows students and their names and connections as weighted edges. Must be displayed as a graph. [30 points]
    - Visualize roommates within the [15 points]
